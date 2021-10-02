@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>NewLineAtEndOfFile:ExampleUnitTest.kt$com.github.sookhee.kotlinandroidtemplate.ExampleUnitTest.kt</ID>
+  </CurrentIssues>
+</SmellBaseline>
